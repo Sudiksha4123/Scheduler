@@ -1,4 +1,4 @@
-# Scheduler
+ # Scheduler
 
 
 ## Introduction
@@ -31,11 +31,11 @@ It is a scheduler app made using MERN stack and the smart webcomponents liberary
     "sweetalert2": "^11.4.8",
     "web-vitals": "^2.1.4"
 
-### Functionality
+### Functionality of files
 
--**Models**:Event.js file in the model folder contains the Events schema.
--**Routes**:event.js file in the route folder contains POST and GET routes for new events.
--newEvent.hs file in the src folder contains the functions exported to the App.js file for the working of new events window.
+- **Models**: Event.js file in the model folder contains the Events schema.
+- **Routes**: event.js file in the route folder contains POST and GET routes for new events.
+- newEvent.js file in the src folder contains the functions exported to the App.js file for the working of new events window.
 
      <img width="960" alt="Screenshot 2023-07-28 205153" src="https://github.com/Sudiksha4123/Scheduler/assets/115284077/13c33fbe-d0cd-46ab-9d32-80db6c3e9f75">
 
