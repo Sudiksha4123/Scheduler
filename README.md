@@ -3,7 +3,7 @@
 
 ## Introduction
 
-It is a scheduler app made using MERN stack and the smart webcomponents liberary is used for the frontend.
+It is a scheduler app made using MERN stack and the smart webcomponents liberary is used for the frontend(https://www.htmlelements.com/).
 
 ### Key Features
 
