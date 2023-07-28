@@ -1,9 +1,7 @@
 //New calendar component
 import 'smart-webcomponents-react/source/styles/smart.default.css';
 import React from "react";
-import ReactDOM from 'react-dom/client';
-import { Button, RepeatButton, ToggleButton, PowerButton } from 'smart-webcomponents-react/button';
-import { Calendar } from 'smart-webcomponents-react/calendar';
+import { Button } from 'smart-webcomponents-react/button';
 import { Input } from 'smart-webcomponents-react/input';
 import { Tree, TreeItem, TreeItemsGroup } from 'smart-webcomponents-react/tree';
 import { Scheduler } from 'smart-webcomponents-react/scheduler';
@@ -85,14 +83,6 @@ class App extends React.Component {
 		}
 	  }
 	  
-
-	handleToggle() {
-		const primaryContainer = this.primaryContainer.current,
-			scheduler = this.scheduler.current;
-
-		primaryContainer.classList.toggle('collapse');
-		scheduler.disableDateMenu = !primaryContainer.classList.contains('collapse');
-	}
 
 	addNew() {
 		this.scheduler.current.openWindow({
