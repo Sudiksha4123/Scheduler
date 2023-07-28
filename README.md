@@ -30,3 +30,11 @@ It is a scheduler app made using MERN stack and the smart webcomponents liberary
     "smart-webcomponents-react": "^15.2.11",
     "sweetalert2": "^11.4.8",
     "web-vitals": "^2.1.4"
+
+     <img width="960" alt="Screenshot 2023-07-28 205153" src="https://github.com/Sudiksha4123/Scheduler/assets/115284077/13c33fbe-d0cd-46ab-9d32-80db6c3e9f75">
+
+     <img width="960" alt="Screenshot 2023-07-28 205323" src="https://github.com/Sudiksha4123/Scheduler/assets/115284077/1c3c2990-9f96-4ac4-ab76-b7a0fae17e3c">
+
+
+     
+
